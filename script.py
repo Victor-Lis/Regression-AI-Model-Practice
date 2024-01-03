@@ -6,6 +6,7 @@ from sklearn.metrics import mean_squared_error, r2_score
 
 # Load Data 
 
+print()
 dataType = ""
 df = ""
 while dataType != "1" and dataType != "2" and dataType != "3":
