@@ -13,15 +13,15 @@ while dataType != "1" and dataType != "2" and dataType != "3":
     dataType = input(f"Escolha uma opção: \n 1- Data1 \n 2- Data2 \n 3- Data3 \nR: ")
 # Data 1;
 if dataType == "1":
-    df = pd.read_csv('https://raw.githubusercontent.com/Victor-Lis/Regression-AI-Model-Practice/master/data.csv')
+    df = pd.read_csv('https://raw.githubusercontent.com/Victor-Lis/Regression-AI-Model-Practice/master/datas/data.csv')
 
 # Data 2;
 if dataType == "2":
-    df = pd.read_csv('https://raw.githubusercontent.com/Victor-Lis/Regression-AI-Model-Practice/master/data2.csv')
+    df = pd.read_csv('https://raw.githubusercontent.com/Victor-Lis/Regression-AI-Model-Practice/master/datas/data2.csv')
 
 # Data 3;
 if dataType == "3":
-    df = pd.read_csv('https://raw.githubusercontent.com/Victor-Lis/Regression-AI-Model-Practice/master/data3.csv')
+    df = pd.read_csv('https://raw.githubusercontent.com/Victor-Lis/Regression-AI-Model-Practice/master/datas/data3.csv')
 
 
 # Data Preparation 

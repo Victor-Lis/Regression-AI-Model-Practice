@@ -1,11 +1,11 @@
-// Esse é o arquivo que usei para construir as tabelas de dados.
+// Esse é o arquivo que usei para copiar os valores para as tabelas de dados.
 
 const f1 = (x) => console.log(`${x},${x*2+1}`)
 
 console.log("Function 1")
 console.log("x,y")
 
-for(let x = 1; x <= 10; x++){
+for(let x = 1; x <= 100; x++){
     f1(x)
 }
 
@@ -31,7 +31,6 @@ for(let x = 1; x <= 1000; x++){
     f3(x)
 }
 
-console.log("")
-console.log("User Testing")
+console.log()
+console.log("-User-")
 f3(3201)
-console.log("")
