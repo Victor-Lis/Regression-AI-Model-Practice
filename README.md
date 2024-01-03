@@ -10,10 +10,9 @@ Sendo assim, nesse projeto atual é possível o usuário interagir com a IA.
 - Utilizar as bibliotecas: [pandas](https://pandas.pydata.org/docs/user_guide/index.html) e [sklearn](https://scikit-learn.org/stable/user_guide.html);
 - Treinar IA, utilizando arquivos .csv;
 - Criação e testes da IA.
+  
 # Aprendizados
-
 Por final aprendi algumas coisas interessantes como: 
-# Na prática
 
 # Criando Data(Dados)
 Nesse caso, eu estava querendo criar alguns valores x e y simples, apenas para entender como a IA funciona.
