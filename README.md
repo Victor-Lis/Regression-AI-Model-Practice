@@ -337,9 +337,9 @@ predict()
 
 ![Utilizando Data1](https://github.com/Victor-Lis/Regression-AI-Model-Practice/blob/master/images/Testando%20IA%20-%20Data1.jpg)
 
-![Utilizando Data2](https://github.com/Victor-Lis/Regression-AI-Model-Practice/blob/master/images/Testando%20IA%20-%20Data1.jpg)
+![Utilizando Data2](https://github.com/Victor-Lis/Regression-AI-Model-Practice/blob/master/images/Testando%20IA%20-%20Data2.jpg)
 
-![Utilizando Data3](https://github.com/Victor-Lis/Regression-AI-Model-Practice/blob/master/images/Testando%20IA%20-%20Data1.jpg)
+![Utilizando Data3](https://github.com/Victor-Lis/Regression-AI-Model-Practice/blob/master/images/Testando%20IA%20-%20Data3.jpg)
 
 ## Autores
 
