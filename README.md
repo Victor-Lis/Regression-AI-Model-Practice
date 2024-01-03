@@ -119,7 +119,7 @@ lr_train_r2 = r2_score(y_train, y_lr_train_pred)
 lr_test_mse = mean_squared_error(y_test, y_lr_test_pred)
 lr_test_r2 = r2_score(y_test, y_lr_test_pred)
 ```
-
+No restante desse bloco, utilizo a biblioteca "pandas" para trabalhar melhor a representação dos dados.
 ```python
 lr_results = pd.DataFrame(["Linear Regression", lr_train_mse, lr_train_r2, lr_test_mse, lr_test_r2]).transpose()
 lr_results.columns = ['Method', 'Training MSE', 'Training R2', 'Test MSE', 'Test R2']
