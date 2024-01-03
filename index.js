@@ -30,7 +30,3 @@ console.log("x,y")
 for(let x = 1; x <= 1000; x++){
     f3(x)
 }
-
-console.log()
-console.log("-User-")
-f3(3201)
